@@ -6,7 +6,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
-- ⚡ Fun fact: I am wicked and I have written [15,902,911](https://sourcerer.io/devhammed) lines of code so far.
+- ⚡ Fun fact: I have written [15,902,911](https://sourcerer.io/devhammed) lines of code so far.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Python 3, Dart (Flutter), Go, Rust and Vala.
 
 ## 💻 PC Specifications
