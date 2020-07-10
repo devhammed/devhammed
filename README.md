@@ -37,6 +37,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
 
 ## 🤷 What else?
 
+- [Blog](https://dev.to/devhammed)
 - [Portfolio](https://devhammed.github.io)
 - [Sourcerer](https://sourcerer.io/devhammed)
 - [Twitter](https://twitter.com/devhammed)
