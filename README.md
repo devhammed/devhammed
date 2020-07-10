@@ -10,6 +10,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
 
 ## 💻 PC Specifications
+<pre>
             .-/+oossssoo+/-.               devhammed@devhammed-ubuntu-20-04 
         `:+ssssssssssssssssss+:`           -------------------------------- 
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04 LTS x86_64 
@@ -29,3 +30,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
       -+sssssssssssssssssyyyssss+-         Storage / Memory: 500GB HDD / 8GB RAM
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.                                       
+</pre>
