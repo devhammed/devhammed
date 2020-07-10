@@ -8,6 +8,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 - 😸 Pronouns: He/him
 - ⚡ Fun fact: I am wicked.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
+- 🚀 Daily Drivers: Visual Studio Code, Spotify, Insomnia, Trello.
 
 ## 💻 PC Specifications
 <pre>
