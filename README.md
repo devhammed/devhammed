@@ -35,6 +35,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
 ## 🤷 What else?
 
 - [Portfolio](https://devhammed.github.io)
+- [Sourcerer](https://sourcerer.io/devhammed)
 - [Twitter](https://twitter.com/devhammed)
+- [Codepen](https://codepen.io/devhammed)
+- [Stackoverflow](https://stackoverflow.com/users/8540949)
 - [LinkedIn](https://linkedin.com/in/devhammed)
+- [Facebook](https://facebook.com/devhammed)
 - [Instagram](https://www.instagram.com/devhammed)
