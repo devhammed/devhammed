@@ -31,3 +31,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.                                       
 </pre>
+
+## 🤷 What else?
+
+- [Portfolio](https://devhammed.github.io)
+- [Twitter](https://twitter.com/devhammed)
+- [LinkedIn](https://linkedin.com/in/devhammed)
+- [Instagram](https://www.instagram.com/devhammed)
