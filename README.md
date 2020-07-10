@@ -11,7 +11,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 
 ## 💻 PC Specifications
 
-You can find my dotfiles at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
+You can find my configuration files at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
 
 <pre>
             .-/+oossssoo+/-.               devhammed@devhammed-ubuntu-20-04 
