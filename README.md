@@ -9,6 +9,8 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Python 3, Dart (Flutter), Go, Rust and Vala.
 
+![DevHammed's Github Stats](https://github-readme-stats.vercel.app/api?username=devhammed)
+
 ## 💻 Uses
 
 You can find my configuration files at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
