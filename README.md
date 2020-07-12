@@ -10,7 +10,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Python 3, Dart (Flutter), Go, Rust and Vala.
 
 
-## Open source Contributions
+## Open Source Contributions
 
 ![DevHammed's Github Stats](https://github-readme-stats.vercel.app/api?username=devhammed)
 
