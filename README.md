@@ -12,7 +12,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 
 ## 🔓 Open Source Contributions
 
-![DevHammed's Github Stats](https://github-readme-stats.vercel.app/api?username=devhammed)
+![DevHammed's Github Stats](https://github-readme-stats.vercel.app/api?username=devhammed&show_icons=true)
 
 ## 💻 Uses
 
