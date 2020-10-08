@@ -24,7 +24,7 @@ You can find my configuration files at [devhammed/dotfiles](https://github.com/d
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04 LTS x86_64 
     .ossssssssssssssssssdMMMNysssso.       Host: Latitude E5430 non-vPro 01 
    /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.4.0-40-generic 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3502 (dpkg), 25 (brew), 24 (snap) 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3684 (dpkg), 27 (brew), 14 (flatpak), 22 (snap) 
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.8
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1600x900
 ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME
