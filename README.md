@@ -35,7 +35,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
   +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal
    /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i3-3110M (4) @ 2.400GHz
     .ossssssssssssssssssdMMMNysssso.       GPU: Intel 3rd Gen Core processor Graphics Controller 
-      -+sssssssssssssssssyyyssss+-         Storage / Memory: 500GB HDD / 8GB RAM
+      -+sssssssssssssssssyyyssss+-         Storage / Memory: 500GB HDD / 12GB RAM
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.                                       
 </pre>
