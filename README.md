@@ -5,7 +5,7 @@ I am a Software Developer that develops intuitive Web and Mobile applications th
 Currently working at [@epowerng](https://github.com/epowerng) as the Chief Technology Officer.
 
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
-- ⚡ Fun fact: I have written [16,011,212](https://sourcerer.io/devhammed) lines of code so far.
+- ⚡ Fun fact: I have written [16,017,440](https://sourcerer.io/devhammed) lines of code so far.
 - 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Python 3, Dart (Flutter), Go, Rust and Vala.
 
