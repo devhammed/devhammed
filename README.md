@@ -14,6 +14,8 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=devhammed&show_icons=true&theme=tokyonight" /></p>
 
+<p align="center"><img width="100%" sr="https://metrics.lecoq.io/devhammed?followup=1&languages=1&pagespeed=1&habits.from=100&music.mode=playlist" /></p>
+
 ## 💻 Uses
 
 You can find my configuration files at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
