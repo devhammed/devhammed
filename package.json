@@ -1,0 +1,28 @@
+{
+  "name": "devhammed",
+  "version": "1.0.0",
+  "description": "I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhammed/devhammed.git"
+  },
+  "keywords": [],
+  "author": "Hammed Oyedele <itz.harmid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devhammed/devhammed/issues"
+  },
+  "homepage": "https://github.com/devhammed/devhammed#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  }
+}
