@@ -1,6 +1,7 @@
 {
   "name": "devhammed",
   "version": "1.0.0",
+  "private": "false",
   "description": "I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.",
   "main": "index.js",
   "bin": "index.js",
