@@ -1,6 +1,10 @@
 # Hello there 👋
 
-![CodersRank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devhammed)
+<p align="center">
+  <a href="https://profile.codersrank.io/user/devhammed">
+    <img width="100%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devhammed" />
+  </a>
+</p>
 
 I am an experienced software developer with a strong background in developing award-winning web and mobile applications for diverse
 clients. 4+ years of industry experience includes programming, debugging, testing, code reviewing, software diagramming and deploying.
