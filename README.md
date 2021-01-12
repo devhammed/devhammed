@@ -9,7 +9,7 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 
 - 🎉 Hobbies: Movies, Contributing to FOSS, Reading and Writing Tech Articles.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Python 3, Dart (Flutter), Go, Rust and Vala.
-- 🚀 Daily Drivers: Visual Studio Code, Google Chrome, Insomnia.REST, StarUML, Slack, Trello & Spotify.
+- 🚀 Daily Drivers: Visual Studio Code, Google Chrome, Insomnia.REST, StarUML, Slack, Trello, MailSpring & Spotify.
 
 
 ## 🔓 Open Source Contributions
