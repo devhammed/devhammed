@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <p align="center">
-  <a href="https://profile.codersrank.io/user/devhammed">
+  <a target="_blank" href="https://profile.codersrank.io/user/devhammed">
     <img width="100%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devhammed" />
   </a>
 </p>
