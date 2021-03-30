@@ -47,9 +47,6 @@ You can find my configuration files at [devhammed/dotfiles](https://github.com/d
 <font color="#E356A7"><b>      -+sssssssssssssssss</b></font><font color="#6E46A4"><b>yyy</b></font><font color="#E356A7"><b>ssss+-</b></font>         <font color="#E356A7"><b>Memory</b></font>: 5709MiB / 11864MiB 
 <font color="#E356A7"><b>        `:+ssssssssssssssssss+:`</b></font>
 <font color="#E356A7"><b>            .-/+oossssoo+/-.</b></font>               <span style="background-color:#262626"><font color="#262626">   </font></span><span style="background-color:#E356A7"><font color="#E356A7">   </font></span><span style="background-color:#42E66C"><font color="#42E66C">   </font></span><span style="background-color:#E4F34A"><font color="#E4F34A">   </font></span><span style="background-color:#9B6BDF"><font color="#9B6BDF">   </font></span><span style="background-color:#E64747"><font color="#E64747">   </font></span><span style="background-color:#75D7EC"><font color="#75D7EC">   </font></span><span style="background-color:#EFA554"><font color="#EFA554">   </font></span>
-
-
-
 </pre>
 
 ## 🤷 What else?
