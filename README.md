@@ -15,11 +15,6 @@ Currently working at [@epowerng](https://github.com/epowerng) as the Chief Techn
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Dart (Flutter), Python, Go, Rust and Vala.
 - 🚀 Daily Drivers: Visual Studio Code, Google Chrome, Insomnia.REST, StarUML, Slack, Trello, MailSpring & Spotify.
 
-
-## 🔓 Open Source Contributions
-
-<p align="center"><img width="100%" src="https://metrics.lecoq.io/devhammed?followup=1&languages=1&pagespeed=1&habits.from=100&music.mode=playlist" /></p>
-
 ## 💻 Uses
 
 You can find my configuration files at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
