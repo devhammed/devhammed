@@ -9,8 +9,6 @@
 I am an experienced software developer with a strong background in developing award-winning web and mobile applications for diverse
 clients with 4+ years of industry experience.
 
-Currently working at [@epowerng](https://github.com/epowerng) as the Chief Technology Officer.
-
 - 🎉 Hobbies: Movies, Contributing to FOSS, Reading and Writing Tech Articles.
 - 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), Dart (Flutter), Python, Go, Rust and Vala.
 - 🚀 Daily Drivers: Visual Studio Code, Google Chrome, Insomnia.REST, StarUML, Slack, Trello, MailSpring & Spotify.
