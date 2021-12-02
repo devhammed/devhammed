@@ -15,7 +15,7 @@ clients with 4+ years of industry experience.
 
 ## 💻 Uses
 
-You can find my configuration files at [devhammed/dotfiles](https://github.com/devhammed/dotfiles).
+You can find my configuration files at [devhammed/dotfiles-linux](https://github.com/devhammed/dotfiles-linux) and [devhammed/dotfiles-mac](https://github.com/devhammed/dotfiles-mac).
 
 <pre style="background:#282a36; color:#fff;padding: 10px;">
 <font color="#E4F34A"><b>devhammed</b></font> in <font color="#75D7EC"><b>~</b></font> 
