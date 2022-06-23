@@ -6,12 +6,12 @@
   </a>
 </p>
 
-I am an experienced software developer with a strong background in developing award-winning web and mobile applications for diverse
+An experienced software developer with a strong background in developing award-winning web and mobile applications for diverse
 clients with 4+ years of industry experience.
 
 - 🎉 Hobbies: Movies, Gaming and Coding.
-- 💬 Ask me about: JavaScript, PHP (Laravel, WordPress) and Dart (Flutter).
-- 🚀 Daily Drivers: Visual Studio Code, Google Chrome, Insomnia.REST, StarUML, Slack, Trello, MailSpring and Spotify.
+- 🚀 Daily Drivers: Visual Studio Code, Google Chrome and Spotify.
+- 💬 Ask me about: JavaScript (React.js, jQuery), PHP (Laravel, WordPress) and Dart (Flutter).
 
 ## 💻 Uses
 
