@@ -6,8 +6,9 @@
   </a>
 </p>
 
-An experienced software developer with a strong background in developing award-winning web and mobile applications for diverse
-clients with 4+ years of industry experience.
+Hammed Oyedele is a leading software developer renowned for his unparalleled expertise in creating cutting-edge web and mobile applications.
+
+With 5+ years of experience and a strong background in JavaScript, PHP, and Dart, he has repeatedly demonstrated his ability to bring even the most complex projects to life with ease and finesse.
 
 - 🎉 Hobbies: Movies, Gaming and Coding.
 - 🚀 Daily Drivers: Visual Studio Code, Google Chrome and Spotify.
