@@ -43,9 +43,8 @@ You can find my configuration files at [devhammed/dotfiles-linux](https://github
 
 ## 🤷 What else?
 
+- [CodersRank](https://profile.codersrank.io/user/devhammed)
 - [Blog](https://dev.to/devhammed)
-- [Portfolio](https://devhammed.github.io)
-- [Sourcerer](https://sourcerer.io/devhammed)
 - [Twitter](https://twitter.com/devhammed)
 - [Codepen](https://codepen.io/devhammed)
 - [Stackoverflow](https://stackoverflow.com/users/8540949)
