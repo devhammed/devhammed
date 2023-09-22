@@ -1,7 +1,7 @@
 {
   "name": "devhammed",
-  "version": "1.0.1",
-  "description": "I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.",
+  "version": "2.0.0",
+  "description": "Hammed is a leading software developer renowned for his unparalleled expertise in creating cutting-edge web and mobile applications.",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {

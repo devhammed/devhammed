@@ -23,8 +23,12 @@ console.log(
       '',
 
       `${chalk.white.bold('       Work:')}  ${chalk.white(
-        'Chief Technology Officer'
-      )} ${chalk.italic.gray('@')} ${chalk.hex('#2b82b2').bold('Epower.ng')}`,
+        'Software Engineer'
+      )} ${chalk.italic.gray('@')} ${chalk.hex('#2b82b2').bold('DecagonHQ')}`,
+
+      `${chalk.white.bold('        Web:')}  ${chalk.cyan(
+        `https://hammed.dev`
+      )}`,
 
       `${chalk.white.bold('       Blog:')}  ${chalk.gray(
         'https://dev.to/'
@@ -42,23 +46,17 @@ console.log(
         'https://linkedin.com/in/'
       )}${chalk.blue(username)}`,
 
-      `${chalk.white.bold('        Web:')}  ${chalk.cyan(
-        `https://${username}.github.io`
-      )}`,
-
       `${chalk.white.bold('       Card:')}  ${chalk.red('npx')} ${chalk.white(
         username
       )}`,
 
       '',
 
-      chalk.italic('I am a Software Developer that develops'),
+      chalk.italic('Hammed is a leading software developer renowned'),
 
-      chalk.italic('intuitive Web and Mobile applications'),
+      chalk.italic('for his unparalleled expertise in creating'),
 
-      chalk.italic('that helps businesses connect with'),
-
-      chalk.italic('their target audience through the internet.')
+      chalk.italic('cutting-edge web and mobile applications.'),
     ].join('\n'),
     {
       margin: 1,
@@ -81,7 +79,7 @@ inquirer
         {
           name: `Send me an ${chalk.green.bold('email')}?`,
           value: () => {
-            open('mailto:itz.harmid@gmail.com')
+            open('mailto:hey@hammed.dev')
             console.log('\nDone, see you soon.\n')
           }
         },
