@@ -6,11 +6,9 @@
   </a>
 </p>
 
-Hammed is a leading software developer renowned for his unparalleled expertise in creating cutting-edge web and mobile applications.
+Hammed is an innovative senior software engineer with 7+ years of experience in developing cutting-edge web and mobile applications. Recognized for technical leadership, mentoring capabilities, and expertise in JavaScript, PHP, and Dart. Passionate about fostering developer communities and driving technological advancements.
 
-With 6+ years of experience and a strong background in JavaScript, PHP, and Dart, Hammed has repeatedly demonstrated his ability to bring even the most complex projects to life with ease and finesse.
-
-He works with a wide variety of technologies and frameworks including but not limited to FLAT Stack (FilamentPHP, Laravel LiveWire, Alpine.js, TailwindCSS), Flutter, React.js, Svelte, Adonis.js, Vue.js, Angular, Node.js, Express.js, Nest.js, MongoDB, MySQL, PostgreSQL, Redis, Docker, Kubernetes, and many more.
+He works with a wide variety of technologies and frameworks including but not limited to HTML, CSS, JavaScript, TypeScript, PHP, Dart, Python, C#, Laravel, FilamentPHP, Livewire, Symfony, WordPress, GoFiber, Adonis.js, Nest.js, React.js, Vue.js, Next.js, Nuxt.js, Tailwind CSS, Alpine.js, jQuery, Flutter, Masonite, ASP.NET, MySQL, PostgreSQL, SQLite, Firebase, Convex, MongoDB, Memcached, Redis, Linux, GraphQL, WebSocket, OpenAPI/Swagger, JSON:API, Git, Docker, Kubernetes, AWS, Google Cloud Platform, Digital Ocean, CPanel, Parcel, Vite, Webpack, Agile, Scrum, & Test-Driven Development (TDD).
 
 - 🎉 Hobbies: Movies, Gaming and Coding.
 - 🚀 Daily Drivers: PHPStorm, Android Studio, Google Chrome, Figma, Insomnia, and Spotify.
